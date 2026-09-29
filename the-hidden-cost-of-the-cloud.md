@@ -2,21 +2,15 @@
 title: The Hidden Cost of the Cloud
 author: Mazen Malas
 date: December 2, 2025
+abstract: |
+  Cloud computing and generative AI run on data centers whose demand for electricity and water is growing faster than earlier estimates predicted.
+  Technology companies have answered public concern with ambitious sustainability pledges, but those pledges rest on carbon offsets, renewable-energy contracts, and projected trajectories that are difficult to verify.
+  As a result, neither policymakers nor the public can tell how much of the reported progress is real.
+  This paper argues that a sustainable cloud requires governments and corporations to act together by adopting mandatory efficiency standards, investing directly in renewable energy, and publishing independently verified data on actual energy use, water use, and emissions.
+keywords: [data centers, cloud computing, environmental sustainability, generative AI, energy consumption, water usage, corporate accountability, renewable energy, policy regulation]
 ---
 
-**Abstract**
-
-Cloud computing has become essential to modern life yet its environmental impact is rapidly intensifying as demand for digital services and generative AI continues to rise. 
-Data centers consume massive amounts of electricity and water often rivaling heavy industrial facilities. 
-Recent reports highlight growing strain on power grids and increasing risk of blackouts and escalating water use in drought prone regions. 
-Although major technology companies have introduced sustainability incentives, concerts about the gap between the stated goals and what is measurable is large. 
-Public awareness is also increasing with communities expressing apprehension about local ecological pacts and calling for greater transparency. 
-This paper argues that meaningful sustainability in cloud computing will require coordinated action and strict regulations. 
-Without these interventions the continued growth of cloud services threatens to become unstable to the environment.
-
-Keywords: *data centers; cloud computing; environmental sustainability; generative AI; energy consumption; water usage; corporate accountability; renewable energy; policy regulation*
-
-**Title needed**
+# Introduction
 
 Cloud computing has become so integrated into modern life that most people rarely stop to consider the physical footprint left behind. 
 Every single movie that\'s streamed, every uploaded TikTok, every purchase made online, and even AI generated responses rely on massive data centers operating continually around the word. 
@@ -25,7 +19,9 @@ Yet even as cloud services continue to expand and improve the environmental cost
 The rapid rise of generative AI has significantly accelerated the use of these centers with accelerated energy and water consumption far beyond the earlier estimates and this surge is raising concerns from engineers, environmental groups, and policy makers. 
 While cloud computing has undeniably driven innovation as well as economic growth among nearly all sectors, its environmental burden is one that can not be ignored. 
 Although data centers are essential to global digital infrastructures their unchecked energy consumption is creating a growing environmental threat that requires a transparent intervention. 
-A sustainable path forward is achievable if corporations and governments work together to adopt stricter efficiency regulations, expand renewable energy integration, and commit to environmental reporting that holds cloud providers accountable for measurable progress.
+A sustainable path forward is achievable if corporations and governments work together to adopt stricter efficiency regulations, expand renewable energy integration, and commit to environmental reporting that holds cloud providers accountable for measurable progress. <!--My claim-->
+
+# The Growing Demand for Energy and Water
 
 The environmental effects of data centers are not some obscure or made up idea, they are immediate and growing at a rapid rate. 
 According to engineers and analysts interviewed in CNBC's 2024 report on the power demands of AI, the energy required to train and operate AI models already rivals the usage of some heavy industrial facilities (CNBC, 2024). 
@@ -44,6 +40,8 @@ Data centers must remain operational 24/7, which means that they are built for r
 Redundancy systems, power supplies that aren\'t interrupted, and backup generators ensure that these centers remain up but also contribute to this large energy waste. 
 During peak heat events cooling systems operate even harder to and lead to a further increase on the environmental load. 
 Without policy intervention and some invocation on the technology side this trend risks escalating beyond limits that are controllable.
+
+# Corporate Pledges and Measurable Progress
 
 Tech corporations are aware that the concern over environmental sustainability threatens both their brand reputation as well as their long term operational sustainability. 
 As a result sustainability reports have become important for corporate communication. 
@@ -66,6 +64,8 @@ On the contrary, large tech providers possess the financial and technological re
 However, without independent verification and transparent reporting standard policymakers and the public cannot fly assess whether such efforts are successful. 
 Transparent and standardized metrics are therefore essential to closing the gap between corporate narratives and environmental reality.
 
+# Rising Public Concern
+
 Public awareness of data centers and their environmental impacts has increased quite a bit in recent years. 
 In a 2025 peer reviewed study Wang, Hua, Peng, and Hu, analyzed more than 100,100 social media posts using large language models to understand how the public feeling has changed with the rise of generative AI. 
 Their findings reveal a pretty clear trend that the public is increasingly concerned about the sustainability of cloud infrastructure partially regarding local water consumption, power grid stability, and the pace at which new data centers are being constructed. 
@@ -80,6 +80,8 @@ This reflects more on the idea that these tech companies should be held accounta
 Public pressure has ahistorically influenced corporate behavior that can be seen in movements such as plastic waste or the use of fossil fuels. 
 The data center industry may soon face some similar demands. 
 As citizens of Beijing become more aware of the energy behind every digital interaction, policymakers may experience greater pressure to regulate the industry.
+
+# Toward Accountability
 
 Addressing the environmental strain caused by data centers will require coordinated action across government and research institutions. 
 Governments should work to establish mandatory energy efficiency benchmarks for both the new and also existing data centers. 
@@ -96,6 +98,8 @@ Transparency enables public accountability and helps policy makers make informed
 These solutions are not without challenges though as renewable integration requires many grid upgrades and efficiency standards may increase the costs for smaller companies but they are feasible and they are necessary. 
 Without them the environmental burden of cloud computing can continue to accelerate if left unchecked.
 
+# Conclusion
+
 The cloud may feel like something that is intangible but its environmental footprint is anything but that. 
 As generative AI and large scale digital services continue to grow, data centers are consuming more unprecedented amounts of energy and water and are staring at local resources. 
 While corporations like Microsoft sustainability commitments demonstrate some progress they also reveal the emissions of their reporting and the need for some sort of independent oversight. 
@@ -104,7 +108,7 @@ A sustainable digital future is achievable but only if industry leaders and poli
 The question is no longer whether cloud computing will grow, but whether its growth will be environmentally responsible or disastrous. 
 Taking proactive action today is the only way to ensure that the digital benefits we rely on do not come at the expense of the planet\'s long term sustainability.
 
-**References**
+# Bibliography
 
 CNBC. (2024, July 28). *How the massive power draw of generative AI is overtaxing our grid* \[Video\]. YouTube. [[https://www.youtube.com/watch?v=MJQIQJYxey4]{.underline}](https://www.youtube.com/watch?v=MJQIQJYxey4)
 
