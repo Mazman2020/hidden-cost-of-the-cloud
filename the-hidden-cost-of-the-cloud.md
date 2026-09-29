@@ -1,11 +1,8 @@
-The Hidden Cost of the Cloud\
-Mazen Malas
-
-Department of Computer Science
-
-Loyola University Chicago
-
-December 2nd, 2025
+---
+title: The Hidden Cost of the Cloud
+author: Mazen Malas
+date: December 2, 2025
+---
 
 **Abstract**
 
