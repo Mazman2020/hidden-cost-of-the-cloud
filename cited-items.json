@@ -1,0 +1,84 @@
+[
+  {
+    "id": "cnbcHowMassivePower2024",
+    "citation-key": "cnbcHowMassivePower2024",
+    "type": "motion_picture",
+    "author": [
+      {
+        "literal": "CNBC"
+      }
+    ],
+    "title": "How the massive power draw of generative AI is overtaxing our grid",
+    "medium": "Video",
+    "publisher": "YouTube",
+    "URL": "https://www.youtube.com/watch?v=MJQIQJYxey4",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          28
+        ]
+      ]
+    }
+  },
+  {
+    "id": "microsoftcorporationEnvironmentalSustainabilityReport2025",
+    "citation-key": "microsoftcorporationEnvironmentalSustainabilityReport2025",
+    "type": "report",
+    "author": [
+      {
+        "literal": "Microsoft Corporation"
+      }
+    ],
+    "title": "2025 environmental sustainability report",
+    "URL": "https://www.microsoft.com/en-us/corporate-responsibility/sustainability/report",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    }
+  },
+  {
+    "id": "wangPublicSentimentAnalysis2025",
+    "citation-key": "wangPublicSentimentAnalysis2025",
+    "type": "article-journal",
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Hongyu"
+      },
+      {
+        "family": "Hua",
+        "given": "Weiqi"
+      },
+      {
+        "family": "Peng",
+        "given": "Jinqing"
+      },
+      {
+        "family": "Hu",
+        "given": "Maomao"
+      }
+    ],
+    "title": "Public sentiment analysis of data center energy consumption using social media data and large language models",
+    "container-title": "Energy and Buildings",
+    "container-title-short": "Energy Build.",
+    "volume": "341",
+    "number": "115802",
+    "DOI": "10.1016/j.enbuild.2025.115802",
+    "ISSN": "0378-7788",
+    "URL": "https://www.sciencedirect.com/science/article/pii/S0378778825005328",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          15
+        ]
+      ]
+    }
+  }
+]
