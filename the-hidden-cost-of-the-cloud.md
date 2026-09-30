@@ -27,15 +27,17 @@ A sustainable path forward is achievable if corporations and governments work to
 The environmental effects of data centers are not some obscure or made up idea, they are immediate and growing at a rapid rate. 
 According to engineers and analysts interviewed in CNBC's 2024 report on the power demands of AI, the energy required to train and operate AI models already rivals the usage of some heavy industrial facilities [@cnbcHowMassivePower2024]. 
 Some individual data centers draw as much electricity as small cities and these seemingly small digital actions can create quite the load. 
-As one expert explains in the report, \"generating an AI image can use as much power as charging your smartphone," a comparison that really highlights how quickly small everyday uses scale into the massive demand when multiplied across the millions of users [@cnbcHowMassivePower2024]. 
+As one expert explains in the report, "generating an AI image can use as much power as charging your smartphone" [@cnbcHowMassivePower2024].
+A single phone charge seems trivial, but the comparison shows how quickly small everyday uses add up to massive demand when they are multiplied across millions of users. 
 What began as a relatively modest digital infrastructure has transformed into one of the fastest growing categories of electricity demand globally. 
 This shift is largely due to the computational intensity of modern AI.
 Training these large language models and running the AI queries require thousands of GPUs operating simultaneously, each of them producing large amounts of heat that must be cooled continuously. 
 Cooling these systems requires large amounts of water and energy inputs. 
-Some facilities consume millions of gallons per day for evaporation cooling and some experts say that data center electricity demand in the United States alone could double by 2030 and use around 16% of total U.S. power consumption which can pose significant challenges for the grids that are already overburdened [@cnbchowMassivepower2024].
+Some facilities consume millions of gallons per day for evaporation cooling and some experts say that data center electricity demand in the United States alone could double by 2030 and use around 16% of total U.S. power consumption which can pose significant challenges for the grids that are already overburdened [@cnbcHowMassivePower2024].
 
 Grid operators are now reporting that large scale data center requests often exceed the capacity of existing infrastructure. 
-In fact, the CNBC report warned that "if data centers don\'t reduce their load there could be a blackout", emphasizing that this digital expansion now carries massive consequences that have a direct effect for local energy reliability [@cnbcHowMassivePower2024].
+In fact, the CNBC report warned that "if data centers don't reduce their load there could be a blackout" [@cnbcHowMassivePower2024].
+The warning makes clear that the expansion of digital services now has direct consequences for the reliability of local power.
 This problem is not simply one of scale but also of design. 
 Data centers must remain operational 24/7, which means that they are built for reliability rather than for efficiency.
 Redundancy systems, power supplies that aren\'t interrupted, and backup generators ensure that these centers remain up but also contribute to this large energy waste. 
@@ -57,8 +59,8 @@ In some cases, offsets merely redistribute the environmental responsibility with
 
 Furthermore, corporate sustainability reports often present trajectories rather than verified outcomes. 
 Metrics are reported selectively and typically highlight projected efficiencies rather than the complexity that the full implementation poses. 
-For instance, although Microsoft reports significant investments in renewable energy contracts stating that "Microsoft has contracted 34 GW of new renewable energy across 24 countries, expanding access to carbon-free electricity through global procurement [@microsoftcorporationEnvironmentalSustainabilityReport2025]. 
-Such contacts do not guarantee that the electricity powering its data centers is truly carbon free. 
+For instance, Microsoft reports that it "has contracted 34 GW of new renewable energy across 24 countries" [@microsoftcorporationEnvironmentalSustainabilityReport2025].
+A contract to buy renewable energy, however, does not guarantee that the electricity actually powering a given data center is carbon free.
 Grid mixed electricity may still rely heavily on fossil fuels especially during some periods of high demand. 
 This does not suggest that corporate efforts are meaningless. 
 On the contrary, large tech providers possess the financial and technological resources necessary to lead decarbonization with the digital sector. 
