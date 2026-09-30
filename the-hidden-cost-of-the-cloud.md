@@ -14,7 +14,7 @@ keywords: [data centers, cloud computing, environmental sustainability, generati
 # Introduction
 
 Cloud computing has become so integrated into modern life that most people rarely stop to consider the physical footprint left behind. 
-Every single movie that\'s streamed, every uploaded TikTok, every purchase made online, and even AI generated responses rely on massive data centers operating continually around the word. 
+Every single movie that's streamed, every uploaded TikTok, every purchase made online, and even AI generated responses rely on massive data centers operating continually around the word. 
 These facilities are the backbone of the digital world and enable the fast speeds often associated with the modern internet. 
 Yet even as cloud services continue to expand and improve the environmental costs are beginning to become increasingly difficult to ignore. 
 The rapid rise of generative AI has significantly accelerated the use of these centers with accelerated energy and water consumption far beyond the earlier estimates and this surge is raising concerns from engineers, environmental groups, and policy makers. 
@@ -40,7 +40,7 @@ In fact, the CNBC report warned that "if data centers don't reduce their load th
 The warning makes clear that the expansion of digital services now has direct consequences for the reliability of local power.
 This problem is not simply one of scale but also of design. 
 Data centers must remain operational 24/7, which means that they are built for reliability rather than for efficiency.
-Redundancy systems, power supplies that aren\'t interrupted, and backup generators ensure that these centers remain up but also contribute to this large energy waste. 
+Redundancy systems, power supplies that aren't interrupted, and backup generators ensure that these centers remain up but also contribute to this large energy waste. 
 During peak heat events cooling systems operate even harder to and lead to a further increase on the environmental load. 
 Without policy intervention and some invocation on the technology side this trend risks escalating beyond limits that are controllable.
 
@@ -48,12 +48,12 @@ Without policy intervention and some invocation on the technology side this tren
 
 Tech corporations are aware that the concern over environmental sustainability threatens both their brand reputation as well as their long term operational sustainability. 
 As a result sustainability reports have become important for corporate communication. 
-Microsoft's *2025 Environmental Sustainability Report* [@microsoftcorporationEnvironmentalSustainabilityReport2025] outlines the company\'s goal of becoming carbon negative and water positive by 2030. 
+Microsoft's *2025 Environmental Sustainability Report* [@microsoftcorporationEnvironmentalSustainabilityReport2025] outlines the company's goal of becoming carbon negative and water positive by 2030. 
 The report emphasizes investments in renewable energy procurement, AI optimized energy management, and advanced cooling technologies designed to reduce water consumption. 
 At face value, these initiatives seem to suggest some meaningful progress. 
 Corporate led innovation especially from some of the industry leaders like Microsoft may play a role in making cloud infrastructure more sustainable. 
 However, these reports raise several important questions about the distinction between measurable action and framing.
-Critics of corporate sustainability practices highlight the industry dependence on carbon offsets, which can artificially reduce a company\'s reported emissions without requiring significant operational change. 
+Critics of corporate sustainability practices highlight the industry dependence on carbon offsets, which can artificially reduce a company's reported emissions without requiring significant operational change. 
 Offsets often involve doing things like forest preservation or renewable energy projects in other regions, but these strategies do not eliminate the missions produced directly by the data centers themselves. 
 In some cases, offsets merely redistribute the environmental responsibility without reducing the underlying problem.
 
@@ -109,7 +109,7 @@ While corporations like Microsoft sustainability commitments demonstrate some pr
 Public concern is rising and research shows that communities are increasingly viewing data center expansions as a direct environmental threat. 
 A sustainable digital future is achievable but only if industry leaders and policymakers prioritize efficient and renewable integration as well as transparency. 
 The question is no longer whether cloud computing will grow, but whether its growth will be environmentally responsible or disastrous. 
-Taking proactive action today is the only way to ensure that the digital benefits we rely on do not come at the expense of the planet\'s long term sustainability.
+Taking proactive action today is the only way to ensure that the digital benefits we rely on do not come at the expense of the planet's long term sustainability.
 
 # Bibliography
 
