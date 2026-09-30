@@ -2,6 +2,7 @@
 title: The Hidden Cost of the Cloud
 author: Mazen Malas
 date: December 2, 2025
+bibliography: cited-items.json
 abstract: |
   Cloud computing and generative AI run on data centers whose demand for electricity and water is growing faster than earlier estimates predicted.
   Technology companies have answered public concern with ambitious sustainability pledges, but those pledges rest on carbon offsets, renewable-energy contracts, and projected trajectories that are difficult to verify.
@@ -24,17 +25,17 @@ A sustainable path forward is achievable if corporations and governments work to
 # The Growing Demand for Energy and Water
 
 The environmental effects of data centers are not some obscure or made up idea, they are immediate and growing at a rapid rate. 
-According to engineers and analysts interviewed in CNBC's 2024 report on the power demands of AI, the energy required to train and operate AI models already rivals the usage of some heavy industrial facilities (CNBC, 2024). 
+According to engineers and analysts interviewed in CNBC's 2024 report on the power demands of AI, the energy required to train and operate AI models already rivals the usage of some heavy industrial facilities [@cnbcHowMassivePower2024]. 
 Some individual data centers draw as much electricity as small cities and these seemingly small digital actions can create quite the load. 
-As one expert explains in the report, \"generating an AI image can use as much power as charging your smartphone," a comparison that really highlights how quickly small everyday uses scale into the massive demand when multiplied across the millions of users (CNBC, 2024). 
+As one expert explains in the report, \"generating an AI image can use as much power as charging your smartphone," a comparison that really highlights how quickly small everyday uses scale into the massive demand when multiplied across the millions of users [@cnbcHowMassivePower2024]. 
 What began as a relatively modest digital infrastructure has transformed into one of the fastest growing categories of electricity demand globally. 
 This shift is largely due to the computational intensity of modern AI.
 Training these large language models and running the AI queries require thousands of GPUs operating simultaneously, each of them producing large amounts of heat that must be cooled continuously. 
 Cooling these systems requires large amounts of water and energy inputs. 
-Some facilities consume millions of gallons per day for evaporation cooling and some experts say that data center electricity demand in the United States alone could double by 2030 and use around 16% of total U.S. power consumption which can pose significant challenges for the grids that are already overburdened.
+Some facilities consume millions of gallons per day for evaporation cooling and some experts say that data center electricity demand in the United States alone could double by 2030 and use around 16% of total U.S. power consumption which can pose significant challenges for the grids that are already overburdened [@cnbchowMassivepower2024].
 
 Grid operators are now reporting that large scale data center requests often exceed the capacity of existing infrastructure. 
-In fact, the CNBC report warned that "if data centers don\'t reduce their load there could be a blackout", emphasizing that this digital expansion now carries massive consequences that have a direct effect for local energy reliability (CNBC, 2024).
+In fact, the CNBC report warned that "if data centers don\'t reduce their load there could be a blackout", emphasizing that this digital expansion now carries massive consequences that have a direct effect for local energy reliability [@cnbcHowMassivePower2024].
 This problem is not simply one of scale but also of design. 
 Data centers must remain operational 24/7, which means that they are built for reliability rather than for efficiency.
 Redundancy systems, power supplies that aren\'t interrupted, and backup generators ensure that these centers remain up but also contribute to this large energy waste. 
@@ -45,7 +46,7 @@ Without policy intervention and some invocation on the technology side this tren
 
 Tech corporations are aware that the concern over environmental sustainability threatens both their brand reputation as well as their long term operational sustainability. 
 As a result sustainability reports have become important for corporate communication. 
-Microsoft's *2025 Environmental Sustainability Report*, outlines the company\'s goal of becoming carbon negative and water positive by 2030. 
+Microsoft's *2025 Environmental Sustainability Report* [@microsoftcorporationEnvironmentalSustainabilityReport2025] outlines the company\'s goal of becoming carbon negative and water positive by 2030. 
 The report emphasizes investments in renewable energy procurement, AI optimized energy management, and advanced cooling technologies designed to reduce water consumption. 
 At face value, these initiatives seem to suggest some meaningful progress. 
 Corporate led innovation especially from some of the industry leaders like Microsoft may play a role in making cloud infrastructure more sustainable. 
@@ -56,7 +57,7 @@ In some cases, offsets merely redistribute the environmental responsibility with
 
 Furthermore, corporate sustainability reports often present trajectories rather than verified outcomes. 
 Metrics are reported selectively and typically highlight projected efficiencies rather than the complexity that the full implementation poses. 
-For instance, although Microsoft reports significant investments in renewable energy contracts stating that "Microsoft has contracted 34 GW of new renewable energy across 24 countries, expanding access to carbon-free electricity through global procurement (Microsoft, 2025). 
+For instance, although Microsoft reports significant investments in renewable energy contracts stating that "Microsoft has contracted 34 GW of new renewable energy across 24 countries, expanding access to carbon-free electricity through global procurement [@microsoftcorporationEnvironmentalSustainabilityReport2025]. 
 Such contacts do not guarantee that the electricity powering its data centers is truly carbon free. 
 Grid mixed electricity may still rely heavily on fossil fuels especially during some periods of high demand. 
 This does not suggest that corporate efforts are meaningless. 
@@ -67,7 +68,7 @@ Transparent and standardized metrics are therefore essential to closing the gap 
 # Rising Public Concern
 
 Public awareness of data centers and their environmental impacts has increased quite a bit in recent years. 
-In a 2025 peer reviewed study Wang, Hua, Peng, and Hu, analyzed more than 100,100 social media posts using large language models to understand how the public feeling has changed with the rise of generative AI. 
+In a 2025 peer reviewed study, @wangPublicSentimentAnalysis2025 analyzed more than 100,100 social media posts using large language models to understand how the public feeling has changed with the rise of generative AI. 
 Their findings reveal a pretty clear trend that the public is increasingly concerned about the sustainability of cloud infrastructure partially regarding local water consumption, power grid stability, and the pace at which new data centers are being constructed. 
 Many individuals express a sense of uncertainty about whether the benefits of AI are enough to outweigh its environmental costs. 
 In communities where data centers are planned or operating the resistance against them has grown. 
@@ -75,7 +76,7 @@ Local governments in multiple regions have already introduced zoning debates as 
 Concerts about water scarcity are also prevalent in the western United States, where communities question whether limited water resources should be allocated to cooling these large data centers.
 
 The study also highlights the skepticism of corporate transparency. 
-Users frequently noted according to the study that sustainability reports are difficult to interpret and can be inconsistent across companies or sometimes framed in overlay optimistic terms (Wang 2025). 
+Users frequently noted according to the study that sustainability reports are difficult to interpret and can be inconsistent across companies or sometimes framed in overlay optimistic terms [@wangPublicSentimentAnalysis2025]. 
 This reflects more on the idea that these tech companies should be held accountable for their environmental impact. 
 Public pressure has ahistorically influenced corporate behavior that can be seen in movements such as plastic waste or the use of fossil fuels. 
 The data center industry may soon face some similar demands. 
@@ -110,8 +111,4 @@ Taking proactive action today is the only way to ensure that the digital benefit
 
 # Bibliography
 
-CNBC. (2024, July 28). *How the massive power draw of generative AI is overtaxing our grid* \[Video\]. YouTube. [[https://www.youtube.com/watch?v=MJQIQJYxey4]{.underline}](https://www.youtube.com/watch?v=MJQIQJYxey4)
 
-Microsoft Corporation. (2025). *Environmental sustainability report 2025*. Microsoft. [[https://www.microsoft.com/en-us/corporate-responsibility/sustainability/report]{.underline}](https://www.microsoft.com/en-us/corporate-responsibility/sustainability/report)
-
-Wang, H., Hua, W., Peng, J., & Hu, M. (2025). *Public sentiment analysis of data center energy consumption using social media data and large language models*. ScienceDirect. [[https://pdf.sciencedirectassets.com]{.underline}](https://pdf.sciencedirectassets.com)
