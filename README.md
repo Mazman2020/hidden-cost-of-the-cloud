@@ -42,3 +42,8 @@ Document conversion with Pandoc
 Citation management 
 Writing in Markdown
 Structured revision of an academic argument.
+
+## AI Usage
+
+I used Claude to help with Git setup and to suggest some revisions.
+Also with the citations when I got stuck.
