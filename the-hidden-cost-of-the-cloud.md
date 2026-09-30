@@ -15,9 +15,10 @@ keywords: [data centers, cloud computing, environmental sustainability, generati
 
 Cloud computing has become so integrated into modern life that most people rarely stop to consider the physical footprint left behind. 
 Every single movie that's streamed, every uploaded TikTok, every purchase made online, and even AI generated responses rely on massive data centers operating continually around the word. 
-These facilities are the backbone of the digital world and enable the fast speeds often associated with the modern internet. 
+These facilities are the backbone of the digital world and enable the fast speeds often associated with the modern internet. <!--Context of my argument-->
 Yet even as cloud services continue to expand and improve the environmental costs are beginning to become increasingly difficult to ignore. 
 The rapid rise of generative AI has significantly accelerated the use of these centers with accelerated energy and water consumption far beyond the earlier estimates and this surge is raising concerns from engineers, environmental groups, and policy makers. 
+At the same time, the sustainability reports that tech companies publish are hard to verify, so policymakers and the public cannot tell whether these costs are actually being addressed. <!--Problem addressed in my argument-->
 While cloud computing has undeniably driven innovation as well as economic growth among nearly all sectors, its environmental burden is one that can not be ignored. 
 Although data centers are essential to global digital infrastructures their unchecked energy consumption is creating a growing environmental threat that requires a transparent intervention. 
 A sustainable path forward is achievable if corporations and governments work together to adopt stricter efficiency regulations, expand renewable energy integration, and commit to environmental reporting that holds cloud providers accountable for measurable progress. <!--My claim-->
@@ -107,7 +108,9 @@ The cloud may feel like something that is intangible but its environmental footp
 As generative AI and large scale digital services continue to grow, data centers are consuming more unprecedented amounts of energy and water and are staring at local resources. 
 While corporations like Microsoft sustainability commitments demonstrate some progress they also reveal the emissions of their reporting and the need for some sort of independent oversight. 
 Public concern is rising and research shows that communities are increasingly viewing data center expansions as a direct environmental threat. 
-A sustainable digital future is achievable but only if industry leaders and policymakers prioritize efficient and renewable integration as well as transparency. 
+A sustainable digital future is achievable but only if industry leaders and policymakers prioritize efficient and renewable integration as well as transparency.
+This matters beyond the environment also, since towns deciding whether to approve a new data center and utilities planning for its demand both need accurate numbers to make fair decisions.
+Future research should check whether verified reporting actually changes how differnet companies build and run their data centers and if newer cooling technologies can help to keep up with the growth of AI.
 The question is no longer whether cloud computing will grow, but whether its growth will be environmentally responsible or disastrous. 
 Taking proactive action today is the only way to ensure that the digital benefits we rely on do not come at the expense of the planet's long term sustainability.
 
